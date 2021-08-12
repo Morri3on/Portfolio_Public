@@ -6,7 +6,20 @@
     <description>Recent content in Pages on Morri3on&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://morri3on.art/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://morri3on.art/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://morri3on.art/about/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://morri3on.art/about/</guid>
+      <description>复古的现代科技爱好者，好读书，不求甚解
+对知识有渴求
+重度拖延症患者
+十二年FPS玩家，但还是很菜，因为开心最重要
+联系请 电子邮箱</description>
+    </item>
+    
     <item>
       <title>Archives</title>
       <link>https://morri3on.art/archives/</link>
@@ -14,17 +27,6 @@
       
       <guid>https://morri3on.art/archives/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://morri3on.art/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://morri3on.art/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
     </item>
     
     <item>
