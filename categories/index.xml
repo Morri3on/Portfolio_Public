@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Morri3on&#39;s</title>
+    <link>https://morri3on.art/categories/</link>
+    <description>Recent content in Categories on Morri3on&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 12 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://morri3on.art/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>手机摄影</title>
+      <link>https://morri3on.art/categories/%E6%89%8B%E6%9C%BA%E6%91%84%E5%BD%B1/</link>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://morri3on.art/categories/%E6%89%8B%E6%9C%BA%E6%91%84%E5%BD%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>随笔</title>
+      <link>https://morri3on.art/categories/%E9%9A%8F%E7%AC%94/</link>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://morri3on.art/categories/%E9%9A%8F%E7%AC%94/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://morri3on.art/categories/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://morri3on.art/categories/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
